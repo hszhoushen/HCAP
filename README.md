@@ -1,4 +1,4 @@
-# CAME Unbiased Scene Graph in Pytorch
+# Peer Learning for Unbiased Scene Graph Generation
 
 [![LICENSE](https://img.shields.io/badge/license-MIT-green)](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/python-3.7-blue.svg)](https://www.python.org/)
@@ -6,7 +6,7 @@
 
 Pytorch implementation of paper:
 
-CAME: Context-aware Mixture-of-Experts for Unbiased Scene Graph Generation 
+Peer Learning for Unbiased Scene Graph Generation
 
 
 
@@ -185,5 +185,10 @@ To visualize the detected scene graphs of custom images, you can follow the jupy
 If you find this project helps your research, please kindly consider citing our project or papers in your publications.
 
 ```
-
+@article{zhou2024peer,
+  title={Peer learning for unbiased scene graph generation},
+  author={Zhou, Liguang and Hu, Junjie and Zhou, Yuhongze and Lam, Tin Lun and Xu, Yangsheng},
+  journal={arXiv preprint arXiv:2301.00146},
+  year={2024}
+}
 ```
